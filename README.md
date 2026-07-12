@@ -27,3 +27,6 @@ Desarrollar un sistema que permita administrar productos, ventas, clientes y gen
 ## Estado del proyecto
 
 El proyecto se encuentra en desarrollo.
+
+## caracteristica
+facturacion con NCF
